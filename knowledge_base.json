@@ -1,0 +1,108 @@
+{
+    "greetings": {
+        "patterns": ["hello", "hi", "hey", "good morning", "good evening", "what's up", "howdy"],
+        "responses": [
+            "Hello! How can I help you learn about sustainability today?",
+            "Hi there! Ready to explore sustainable practices?",
+            "Hey! Let's talk about sustainability!",
+            "Welcome! How may I help you understand sustainability better?"
+        ]
+    },
+    "farewell": {
+        "patterns": ["bye", "goodbye", "see you", "take care", "catch you later", "have a good one"],
+        "responses": [
+            "Goodbye! Remember to make sustainable choices!",
+            "Have a great eco-friendly day!",
+            "See you later! Keep living sustainably!",
+            "Take care and remember to protect our planet!"
+        ]
+    },
+    "thanks": {
+        "patterns": ["thank you", "thanks", "appreciate it", "thank you so much", "thanks a lot"],
+        "responses": [
+            "You're welcome! Together we can make a more sustainable future!",
+            "Happy to help create a greener world!",
+            "Anytime! Every small step towards sustainability counts!",
+            "Glad I could help you learn about sustainability!"
+        ]
+    },
+    "sustainability_definition": {
+        "patterns": [
+            "what is sustainability",
+            "define sustainability",
+            "explain sustainability",
+            "meaning of sustainability",
+            "tell me about sustainability concept"
+        ],
+        "responses": [
+            "Sustainability is the ability to maintain or support a process continuously over time without depleting natural resources or causing environmental harm.",
+            "Sustainability refers to meeting our present needs without compromising future generations' ability to meet their own needs.",
+            "Sustainability is the balanced integration of environmental stewardship, economic development, and social well-being for both present and future generations."
+        ]
+    },
+    "sustainability_pillars": {
+        "patterns": [
+            "what are the pillars of sustainability",
+            "main components of sustainability",
+            "sustainability elements",
+            "three pillars of sustainability",
+            "key aspects of sustainability"
+        ],
+        "responses": [
+            "The three pillars of sustainability are: 1. Environmental Protection - preserving natural resources and ecosystems, 2. Economic Development - promoting sustainable economic growth, 3. Social Equity - ensuring fair access to resources and opportunities.",
+            "Sustainability is built on three main pillars: Environmental (protecting nature), Economic (maintaining profitable and fair business practices), and Social (supporting human rights and equal opportunities)."
+        ]
+    },
+    "sustainability_practices": {
+        "patterns": [
+            "how to be sustainable",
+            "sustainable practices",
+            "sustainability tips",
+            "ways to be sustainable",
+            "sustainable living tips"
+        ],
+        "responses": [
+            "Key sustainable practices include: 1. Reduce, reuse, and recycle, 2. Use renewable energy sources, 3. Conserve water, 4. Choose eco-friendly products, 5. Support sustainable businesses, 6. Practice mindful consumption.",
+            "To live sustainably: 1. Minimize waste through proper recycling and composting, 2. Use energy-efficient appliances, 3. Opt for sustainable transportation, 4. Buy local and seasonal products, 5. Reduce single-use plastics, 6. Support environmental initiatives."
+        ]
+    },
+    "sustainability_benefits": {
+        "patterns": [
+            "benefits of sustainability",
+            "advantages of sustainability",
+            "why is sustainability important",
+            "importance of sustainability",
+            "positive effects of sustainability"
+        ],
+        "responses": [
+            "Benefits of sustainability include: 1. Environmental protection and conservation, 2. Reduced carbon footprint, 3. Cost savings through efficiency, 4. Enhanced reputation and brand value, 5. Improved public health, 6. Long-term economic stability.",
+            "Sustainability offers many advantages: 1. Preserves natural resources, 2. Creates new job opportunities, 3. Improves quality of life, 4. Reduces pollution and waste, 5. Promotes innovation, 6. Ensures long-term survival of ecosystems."
+        ]
+    },
+    "sustainability_challenges": {
+        "patterns": [
+            "challenges in sustainability",
+            "sustainability problems",
+            "barriers to sustainability",
+            "sustainability issues",
+            "difficulties in sustainable development"
+        ],
+        "responses": [
+            "Common sustainability challenges include: 1. High initial implementation costs, 2. Resistance to change, 3. Lack of awareness and education, 4. Complex global supply chains, 5. Balancing economic growth with environmental protection.",
+            "Major sustainability challenges are: 1. Limited resources and funding, 2. Technological limitations, 3. Policy and regulatory gaps, 4. Behavioral change requirements, 5. Coordination among stakeholders, 6. Measuring and monitoring progress."
+        ]
+    },
+    "renewable_energy": {
+        "patterns": [
+            "what is renewable energy",
+            "types of renewable energy",
+            "clean energy sources",
+            "sustainable energy options",
+            "alternative energy sources"
+        ],
+        "responses": [
+            "Renewable energy sources include: 1. Solar power - from sunlight, 2. Wind power - from wind turbines, 3. Hydropower - from flowing water, 4. Geothermal - from Earth's heat, 5. Biomass - from organic materials.",
+            "Clean energy alternatives include: 1. Solar panels for electricity, 2. Wind farms for power generation, 3. Hydroelectric dams for consistent power, 4. Geothermal heat for heating/cooling, 5. Biomass for fuel production."
+        ]
+    }
+}
